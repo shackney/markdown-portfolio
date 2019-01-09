@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- Beagle puppies
+- Reading books
+  - Mystery
+  - Suspense
+- Tennis
