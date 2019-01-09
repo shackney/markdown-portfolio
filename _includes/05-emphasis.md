@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- **Great** organizational skills 
+- Proficient in _JavaScript, HTML,_ and _PHP_
+- Skilled in **most** Microsoft office applications
