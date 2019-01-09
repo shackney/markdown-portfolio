@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Parks and Rec](https://media.giphy.com/media/JujGDzC62NZxS/giphy.gif)
