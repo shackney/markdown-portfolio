@@ -1,0 +1,3 @@
+- **Great** organizational skills 
+- Proficient in _JavaScript, HTML,_ and _PHP_
+- Skilled in **most** Microsoft office applications
